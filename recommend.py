@@ -11,7 +11,7 @@ def load_model():
 	return data
 
 def load_image(newdata):
-	image_address = {"apple":"./crop_pic/apple.jpg","banana":"./crop_pic/banana.jpg","blackgram":"./crop_pic/blackgram.jpg","chickpea.jpg":"./crop_pic/chickpea.jpg","coconut":"./crop_pic/coconut.jpg",
+	image_address = {"apple":"./crop_pic/apple.jpg","banana":"./crop_pic/banana.jpg","blackgram":"./crop_pic/blackgram.jpg","chickpea":"./crop_pic/chickpea.jpg","coconut":"./crop_pic/coconut.jpg",
 					"coffee":"./crop_pic/coffee.jpg","cotton":"./crop_pic/cotton.jpg","grapes":"./crop_pic/grapes.jpg","jute":"./crop_pic/jute.jpg","kidneybeans":"./crop_pic/kidneybeans.jpg",
 					"lentil":"./crop_pic/lentil.jpg","maize":"./crop_pic/maize.jpg","mango":"./crop_pic/mango.jpg","mothbean":"./crop_pic/mothbean.jpg","mungbean":"./crop_pic/mungbean.jpg",
 					"muskmelon":"./crop_pic/muskmelon.jpg","orange":"./crop_pic/orange.jpg","papaya":"./crop_pic/papaya.jpg","pigeonpeas":"./crop_pic/pigeaonpeas.jpg","pomegranate":"./crop_pic/pomegranate.jpg",
